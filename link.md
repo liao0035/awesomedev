@@ -9,3 +9,10 @@
 ### CLI
 
 some CLI commands
+
+after git merge if the message shows up just add the message
+
+i
+write the message
+click esc
+:wq
